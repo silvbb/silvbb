@@ -1,7 +1,7 @@
 <img width=100% src="./img/header.svg" alt="头部图" />
 <p align="center">
     <img alt="访问人数" src="https://visitor-badge.laobi.icu/badge?page_id=铁骑.readme"  />
-    <a href="https://blog.铁骑.top/" target="_blank" style="display: inline-block;">
+    <a href="silvbb.github.io" target="_blank" style="display: inline-block;">
         <img alt="个人主页" src="https://img.shields.io/badge/铁骑的知识库-欢迎访问-brightgreen.svg?style=social&logo=blogger&logoColor=lightblue" />
     </a>&nbsp;
     <a href="https://github.com/silvbb" target="_blank" style="display: inline-block;">
