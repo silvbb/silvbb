@@ -4,7 +4,7 @@
     <a href="https://blog.铁骑.top/" target="_blank" style="display: inline-block;">
         <img alt="个人主页" src="https://img.shields.io/badge/铁骑的知识库-欢迎访问-brightgreen.svg?style=social&logo=blogger&logoColor=lightblue" />
     </a>&nbsp;
-    <a href="https://github.com/铁骑" target="_blank" style="display: inline-block;">
+    <a href="https://github.com/silvbb" target="_blank" style="display: inline-block;">
         <img alt="GitHub个人主页" src="https://img.shields.io/badge/GitHub-铁骑-lightblue?logo=github" />
     </a>&nbsp;
     <a href="https://gitee.com/铁骑" target="_blank" style="display: inline-block;">
