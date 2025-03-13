@@ -22,8 +22,8 @@
 
 - 👋 Hi, I'm 铁骑
 - 🔭 I'm currently working on backend development
-- 📫 How to reach me: [铁骑@126.com](mailto:铁骑@126.com)
-- 📖 My motto: “东隅已逝，桑榆非晚。”
+- 📫 How to reach me: [silvbb@gmail.com](mailto:silvbb@gmail.com)
+- 📖 My motto: “杰维智能”
 
 ---
 
